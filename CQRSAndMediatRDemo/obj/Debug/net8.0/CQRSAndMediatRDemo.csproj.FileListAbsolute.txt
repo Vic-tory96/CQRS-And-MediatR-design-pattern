@@ -143,3 +143,4 @@ C:\Users\mirac\OneDrive\Documents\CleanArchitecture\CQRSAndMediatRDemo\CQRSAndMe
 C:\Users\mirac\OneDrive\Documents\CleanArchitecture\CQRSAndMediatRDemo\CQRSAndMediatRDemo\bin\Debug\net8.0\MediatR.dll
 C:\Users\mirac\OneDrive\Documents\CleanArchitecture\CQRSAndMediatRDemo\CQRSAndMediatRDemo\bin\Debug\net8.0\MediatR.Contracts.dll
 C:\Users\mirac\OneDrive\Documents\CleanArchitecture\CQRSAndMediatRDemo\CQRSAndMediatRDemo\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mirac\OneDrive\Documents\CleanArchitecture\CQRSAndMediatRDemo\CQRSAndMediatRDemo\obj\Debug\net8.0\CQRSAndMediatRDemo.sourcelink.json
